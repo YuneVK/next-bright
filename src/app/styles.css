@@ -99,3 +99,6 @@ h2 {
   border-radius: 4px;
   cursor: pointer;
 }
+.hidden {
+  display: none;
+}

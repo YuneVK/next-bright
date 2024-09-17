@@ -15,3 +15,9 @@ Then, start a local development server:
 ```bash
 $ npm run dev
 ```
+
+## Create a new component
+
+```bash
+npx new-component YourComponentName
+```
